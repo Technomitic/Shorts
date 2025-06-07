@@ -1,0 +1,23 @@
+# Ignore video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.flv
+*.wmv
+*.webm
+
+# Ignore image files
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+*.tif
+*.heic
+*.webp
+*.svg
+*.ico
+
+# Ignore GIFs
+*.gif
